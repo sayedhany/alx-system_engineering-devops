@@ -6,4 +6,5 @@
 4. 3-listfiles: display files in long format
 5. 4-listmorefiles: dispaly files in long format including hidden files
 6. 5-listfilesdigitonly: display files in long format, UIDs and hidden files
-7. 6- 
+7. 6-firstdirectory: create file in tmp directory
+8. 7- 

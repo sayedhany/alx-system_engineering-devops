@@ -8,4 +8,5 @@
 6. 5-listfilesdigitonly: display files in long format, UIDs and hidden files
 7. 6-firstdirectory: create file in tmp directory
 8. 7-movethatfile: will move file from directory to another
-9. 8- 
+9. 8-firstdelete: delete file
+10. 9-  

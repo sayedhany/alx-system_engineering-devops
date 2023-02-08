@@ -5,4 +5,5 @@
 3. 2-bring_me_home: change my working directory to the user's home directory
 4. 3-listfiles: display files in long format
 5. 4-listmorefiles: dispaly files in long format including hidden files
-6. 5-  
+6. 5-listfilesdigitonly: display files in long format, UIDs and hidden files
+7. 6- 

@@ -3,4 +3,5 @@
 1. 0-current_working_directory: Prints the absolute path name of the current working directory
 2. 1-listit: Display the conttents list of your current directory.
 3. 2-bring_me_home: change my working directory to the user's home directory
-4. 3- 
+4. 3-listfiles: display files in long format
+5. 4- 

@@ -17,4 +17,6 @@
 15. 14-copy_html: copy any file end with .html
 - Advanced
 16. 100-lets_move: move any file start eith uppercase letter
-17.   
+17. 101-cleanEmacs: delete any file end eith ~
+18. 102-Tree: create recursion directory
+19. 103- 

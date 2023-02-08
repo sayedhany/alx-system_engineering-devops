@@ -10,4 +10,5 @@
 8. 7-movethatfile: will move file from directory to another
 9. 8-firstdelete: delete file
 10. 9-firstdirdeletion: delete directory.
-11. 10-  
+11. 10-back: change directory to the parent
+12. 11-  

@@ -14,4 +14,7 @@
 12. 11-lists: list current file folders and its parent and /boot 
 13. 12-filetype: display the type of file using file command.
 14. 13-symbolic: add symbolic file link
-15. 14-copy_html: copy any file end with .html  
+15. 14-copy_html: copy any file end with .html
+- Advanced
+16. 100-lets_move: move any file start eith uppercase letter
+17.   

@@ -12,4 +12,5 @@
 10. 9-firstdirdeletion: delete directory.
 11. 10-back: change directory to the parent
 12. 11-lists: list current file folders and its parent and /boot 
-13. 12-  
+13. 12-filetype: display the type of file using file command.
+14. 13-`  

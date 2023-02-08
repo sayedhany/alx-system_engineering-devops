@@ -19,4 +19,4 @@
 16. 100-lets_move: move any file start eith uppercase letter
 17. 101-cleanEmacs: delete any file end eith ~
 18. 102-Tree: create recursion directory
-19. 103- 
+19. 103-commas: show file with / 

@@ -1,6 +1,6 @@
 # Shell, init files, variables and expansions
 
-Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
+Project done during **Full Stack Software Engineering studies** at **ALX AFRICA**. It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?` and single an double quotes in **Shell**.
 
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
@@ -29,5 +29,4 @@ All of the following files are scripts:
 | `100-rot13` | Encodes and decodes text using the rot13 encryption |
 | `101-odd` | Prints every other line from the input, starting with the first line |
 | `102-water_and_str` | Adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result |
-
 

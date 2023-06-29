@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-print from 0 to 10 using while
+#print from 0 to 10 using while
 i=0
 while [ $i -lt 10 ]
 do
